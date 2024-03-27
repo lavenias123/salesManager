@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>com.stewartlavenia</groupId>
 	<artifactId>SalesManager</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SalesManager</name>
 	<description>CRUD operations using Thymeleaf</description>
