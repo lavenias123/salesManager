@@ -13,7 +13,7 @@ create Table sales (
 	);
 
 Insert into sales (itemName, quantity, amount) 
-	values (
+	values 
 		("One-Pot White Wine Pasta with Mushrooms and Leeks", 2, 32.50),
 		("Pasta with Roasted Cauliflower and Crispy Capers", 3, 56.75),
 		("Pulling-from-the-Pantry Puttanesca", 4, 89.99),
@@ -21,4 +21,4 @@ Insert into sales (itemName, quantity, amount)
 		("Creamy Tomato Rigatoni", 7, 99.10),
 		("Creamy Vegan Pasta with Greens, Peas, and Lemon Zest", 8, 108.99),
 		("Pasta Aglio e Olio", 2, 15.89)
-	);
+	;
